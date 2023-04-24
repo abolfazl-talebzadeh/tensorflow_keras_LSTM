@@ -1,15 +1,15 @@
 # HOW TO RUN
 There are several jupyter notebook files each of which is designed for a specific version of a model.
 the files include:
-[1] tensor\_keras\_LSTM.ipynb
-[2] tensor\_keras\_LSTM-ver\_1.ipynb
-[3] tensor\_keras\_LSTM-ver\_2.ipynb
-[4] tensor\_keras\_LSTM-ver\_3.ipynb
-[5] tensor\_keras\_LSTM-ver\_2.ipynb
-[6] mlClassifierVer1.ipynb
-[7] mlClassifierVe2.ipynb
-[8] Ensemble\_1.ipynb
-[9] Ensemble\_2.ipynb
+1. tensor\_keras\_LSTM.ipynb
+2. tensor\_keras\_LSTM-ver\_1.ipynb
+3. tensor\_keras\_LSTM-ver\_2.ipynb
+4. tensor\_keras\_LSTM-ver\_3.ipynb
+5. tensor\_keras\_LSTM-ver\_2.ipynb
+6. mlClassifierVer1.ipynb
+7. mlClassifierVe2.ipynb
+8. Ensemble\_1.ipynb
+9. Ensemble\_2.ipynb
 
 file number 1 is a practice on a deep learning model which failed
 file number 2 is the final deep learning model
